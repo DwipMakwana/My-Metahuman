@@ -75,4 +75,6 @@ DerivedDataCache/*
 
 <<<<<<< HEAD 
 =======
-#Temp
+# Replaced with zip files for LFS commit issue
+Content/MetaHumans/Common/Face/Face_Archetype.uasset
+Content/MetaHumans/Dwip/Face/Dwip_FaceMesh.uasset
